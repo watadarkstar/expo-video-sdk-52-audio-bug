@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "newArchEnabled": true,
+    "plugins": [
+      [
+        "expo-video",
+        {
+          "supportsBackgroundPlayback": true,
+          "supportsPictureInPicture": true
+        }
+      ]
+    ]
+  }
+}
